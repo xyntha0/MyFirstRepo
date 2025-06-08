@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Improve my bug bounty hunting skills by finding and reporting more vulnerabilities.
+2. Learn more about ethical hacking and gain certifications in cybersecurity.
+3. Contribute to open-source projects and enhance my GitHub profile.
+4. Develop my technical writing skills and publish blog posts on cybersecurity topics.
+5. Work on personal projects related to cybersecurity and ethical hacking.
