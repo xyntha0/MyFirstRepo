@@ -1,0 +1,3 @@
+What I have learned so far in this course:
+
+So far in this course, I have learned the basics of version control with Git and GitHub. I have explored how to create and manage repositories, work with branches, and make pull requests. Additionally, I now understand the significance of forking repositories, collaborating with others through pull requests, and keeping track of changes using commit messages. These skills are crucial for efficient collaboration in software development and will serve as the foundation for managing larger projects in the future.
